@@ -3,6 +3,6 @@ ul#MenuBar {
     margin: 0;
     padding: 0;
 }
-ul#MenuBar li {
+li.menu {
    display: inline;
 }
