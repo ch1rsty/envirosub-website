@@ -2,7 +2,5 @@ ul#MenuBar {
    list-style-type: none;
     margin: 0;
     padding: 0;
-}
-ul li {
    background-color: red;
 }
