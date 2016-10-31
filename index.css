@@ -3,6 +3,6 @@ ul#MenuBar {
     margin: 0;
     padding: 0;
 }
-li.menu {
+ul li.menu {
    background-color: red;
 }
