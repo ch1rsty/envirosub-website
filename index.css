@@ -4,5 +4,5 @@ ul#MenuBar {
     padding: 0;
 }
 li.menu {
-   display: inline;
+   background-color: red;
 }
