@@ -6,6 +6,9 @@
     margin-right: 200px;
     margin-left: 200px;
   }
+  img {
+    margin: 0 auto;
+  }
   ul#MenuBar {   
     list-style-type: none;
     margin: 0;    
