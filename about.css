@@ -1,0 +1,19 @@
+  body { 
+    background-color: #1a6600;
+  }
+  ul#MenuBar {   
+    list-style-type: none;
+    margin: 0;    
+    padding: 0;    
+    position: fixed;    
+    top: 0;    
+    width: 100%;
+    }
+  li.menu {    
+    float: left;
+    }
+  li.menu a {    
+    display: block;    
+    padding: 8px;    
+    background-color: #dddddd;
+  }
