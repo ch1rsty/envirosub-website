@@ -6,7 +6,8 @@
     margin-right: 200px;
     margin-left: 200px;
   }
-  img {
+  img.displayed {
+    display: block;
     margin: 0 auto;
   }
   ul#MenuBar {   
