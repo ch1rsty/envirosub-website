@@ -3,7 +3,8 @@
   }
   p {
     color: "white";
-    margin: auto;
+    margin-right: 70px;
+    margin-left: 70px;
   }
   ul#MenuBar {   
     list-style-type: none;
