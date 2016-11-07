@@ -1,6 +1,9 @@
   body { 
     background-color: "#009900";
   }
+  p {
+    color: white; 
+  }
   ul#MenuBar {   
     list-style-type: none;
     margin: 0;    
