@@ -18,10 +18,9 @@ p {
 p#about {
   font-size: 100%;
   }
-
-div."contact resources" {
-
-  }
+div.contact {
+    padding: 10px; 0px; 10px;
+}
 
 p#email {
 padding: 60px; 0px; 0px;
