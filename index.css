@@ -5,10 +5,10 @@ body {
     background-size: 100%;
 } 
 
-#container { 
+.container { 
     background:#63CD59;
-
   }
+
   p {
     color: "#FFFFFF";
     margin-right: 200px;
