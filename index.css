@@ -5,10 +5,9 @@ body {
     background-size: 100%;
 } 
 
-body.container { 
-    color: "#FFFFFF";
-    background-color: green;
-    display:block;
+#container { 
+    background: green;
+
   }
   p {
     color: "#FFFFFF";
