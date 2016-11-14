@@ -14,6 +14,9 @@ p {
     margin-right: 200px;
     margin-left: 200px;
   }
+p#about {
+  font-size: 100%;
+  }
 img.img-circle {
     height: 200px;
     width: 50%;
