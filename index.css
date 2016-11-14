@@ -9,10 +9,14 @@ div.container {
     background:rgba(150, 255, 130, 0.5);
   }
 
-  p {
+p {
     color: "#FFFFFF";
     margin-right: 200px;
     margin-left: 200px;
+  }
+img.img-circle {
+    height: 200px;
+    width: 100%;
   }
 
   img.displayed {
