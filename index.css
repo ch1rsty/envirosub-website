@@ -20,6 +20,9 @@ p#about {
 img.img-circle {
    
   }
+iframe {
+    text-align: center;
+}
 
   img.displayed {
     display: block;
