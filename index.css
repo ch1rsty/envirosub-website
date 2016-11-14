@@ -1,4 +1,10 @@
- body { 
+body {
+    background-image: url("blurry-trees.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} 
+
+container { 
     color: "#FFFFFF";
     background-color: green;
   }
