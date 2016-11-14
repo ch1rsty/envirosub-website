@@ -24,6 +24,10 @@ div#googleForm {
     text-align: center;
 }
 
+a.btn btn-default {
+    background-color: #008CBA;
+}
+
   img.displayed {
     display: block;
     margin: 0 auto;
