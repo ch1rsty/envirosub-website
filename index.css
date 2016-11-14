@@ -18,7 +18,7 @@ p#about {
   font-size: 100%;
   }
 img.img-circle {
-    height: 200px;
+    height: auto;
     width: 100%;
   }
 
