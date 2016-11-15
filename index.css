@@ -33,7 +33,7 @@ p#gw {
 
 
 /*Contact Us related css start*/
-p#3 {
+iframe.dispayed {
 	display: block;
 	margin: 0 auto;
 }
