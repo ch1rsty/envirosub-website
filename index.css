@@ -26,7 +26,7 @@ p#about {
 /*Green Week related css start*/
 p#gw {
 	display: block;
-	margin: 0 auto;
+	margin: 0 auto; /*not working*/
 }
 
 /*Green Week related css end*/
@@ -36,7 +36,7 @@ p#gw {
 p#3 {
 	display: block;
 	margin: 0 auto;
-	width: 100%;
+	width: 100%; /*not working*/
 }
 
 p.resources { 
