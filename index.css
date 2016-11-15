@@ -15,18 +15,23 @@ p {
     margin-left: 200px;
   }
 
+/*About related css start*/
+
 p#about {
   font-size: 100%;
   }
+/*About related css end*/
 
-img.img-circle {
-   
-  }
 
+/*Green Week related css start*/
 p#gw {
 margin: 0 auto;
 }
 
+/*Green Week related css end*/
+
+
+/*Contact Us related css start*/
 p#3 {
 margin: 0 auto;
 }
@@ -45,6 +50,8 @@ p.resources {
 a.btn {
     background-color: #008CBA;
 }
+
+/*Contact Us related css end*/
 
   img.displayed {
     display: block;
