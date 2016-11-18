@@ -82,5 +82,5 @@ img.img-circle {
 }
 
 div.committee-pic-second img {
-	text-align:right
+	float:right;
 }
