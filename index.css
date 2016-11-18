@@ -68,3 +68,11 @@ div.committee-pic {
 div.carousel-inner img {
   margin: auto;
 }
+
+/*circle committee images*/
+img.img-circle {
+	height: auto;
+	width: auto;
+	max-height: 250px;
+	max-width: 250px;
+}
