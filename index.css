@@ -76,3 +76,7 @@ img.img-circle {
 	max-height: 200px;
 	max-width: 200px;
 }
+
+div.committee-pic-second img {
+	text-align:right
+}
