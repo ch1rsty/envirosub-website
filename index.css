@@ -63,3 +63,8 @@ a.btn {
 div.committee-pic {
  padding-bottom: 100px;
 }
+
+/*Image carousel align*/
+div.carousel-inner img {
+  margin: auto;
+}
