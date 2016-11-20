@@ -26,12 +26,12 @@ div.subheading-right {
 
 /*scrolling arrow pic*/
 div.scroll-arrow {
-	text-align: center;
-	display: block;
-	margin: 0 auto;
+	min-width: 100px;
 }
 
 img.scroll-arrow {
+	display: block;
+	margin: 0 auto;
 	max-height: 50px;
 	max-width: auto;
 }
