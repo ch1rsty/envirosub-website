@@ -28,6 +28,8 @@ div.subheading-right {
 span.scroll-arrow {
 	display: block;
 	margin: 0 auto;
+}
+img.scroll-arrow {
 	max-height: 50px;
 	max-width: auto;
 }
