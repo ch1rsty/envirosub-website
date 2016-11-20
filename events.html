@@ -103,6 +103,9 @@
         <img class="img-responsive img-rounded" src="climate march.jpg" alt="Climate March">
 	</div>
 </div> 
+	
+	<a href="#" class="back-to-top">Back to Top</a>
+
 
 	<footer>
 		<p>Created by Chirsty McFadyen and Mariya Simeonova.</p>
@@ -113,6 +116,16 @@
   src="https://code.jquery.com/jquery-3.1.1.js"
   integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
   crossorigin="anonymous"></script>
+	<script type="text/javascript">
+	$('body').prepend('<a href="#" class="back-to-top">Back to Top</a>');
+	$(window).scroll(function() {
+	if ( $(window).scrollTop() >200) {
+		$('a.back-to-top').fadeIn('slow');
+	} else {
+		$('a.back-to-top').fadeOut('slow');
+	}
+});
+	</script>
 <script src= "jquery.js"></script>
   <script src= "bootstrap-3.3.7-dist/js/bootstrap.js"></script>
 	<script type="text/javascript" src="jakubkowalczyk-pl-jgallery-c4cdb04/js/jquery-2.0.3.min.js"></script>
