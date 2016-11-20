@@ -36,6 +36,16 @@ img.scroll-arrow {
 	max-width: auto;
 }
 	
+ol.body-text {
+	display: block;
+    text-align: left;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
 
 p.body-text {
 	display: block;
