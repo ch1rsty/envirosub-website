@@ -15,6 +15,11 @@ img.union-pic {
 	max-width: auto;
 }
 
+/*subheadings on about page*/
+h3.subheading-right {
+	text-align: right;
+}
+
 p.body-text {
 	display: block;
     text-align: left;
