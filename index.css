@@ -9,7 +9,7 @@ div.container {
     background:rgba(255, 255, 255, 0.75);
   }
 
-p.text-body {
+p.body-text {
 	display: block;
     text-align: left;
     font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
