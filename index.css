@@ -20,6 +20,10 @@ p.body-text {
 	line-height: 30px;
 }
 
+div.centered-pic {
+	display: block;
+	margin: 0 auto;
+}
 /*About related css start*/
 
 p#about {
