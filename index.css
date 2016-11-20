@@ -24,6 +24,15 @@ div.subheading-right {
 	text-align: right;
 }
 
+/*scrolling arrow pic*/
+span.scroll-arrow {
+	display: block;
+	margin: 0 auto;
+	max-height: 50px;
+	max-width: auto;
+}
+	
+
 p.body-text {
 	display: block;
     text-align: left;
