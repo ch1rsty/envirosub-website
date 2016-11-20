@@ -70,6 +70,13 @@ p#about {
   }
 /*About related css end*/
 
+/*Events CSS*/
+img.gallery {
+	max-width:600px;
+	max-height: auto;
+}
+
+
 
 /*Green Week related css start*/
 p#gw {
