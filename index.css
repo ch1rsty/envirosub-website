@@ -9,6 +9,12 @@ div.container {
     background:rgba(255, 255, 255, 0.75);
   }
 
+/*union logo*/
+img.union-pic {
+	max-height: 50px;
+	max-width: auto;
+}
+
 p.body-text {
 	display: block;
     text-align: left;
