@@ -38,7 +38,7 @@ div#3 {
 	width: 100%; /*not working*/
 }
 
-p.resources { 
+div.contact-info { 
     display: block;
     text-align: left;
     font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
