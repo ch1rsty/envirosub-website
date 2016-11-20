@@ -26,6 +26,7 @@ div.subheading-right {
 
 /*scrolling arrow pic*/
 div.scroll-arrow {
+	text-align: center;
 	display: block;
 	margin: 0 auto;
 }
