@@ -107,6 +107,7 @@ div.pdf .text-pdf {
 	position:relative;
 	display: block;
 	padding: 0 auto;
+	color: #ffffff;
 	visibility:hidden;
 }
 
