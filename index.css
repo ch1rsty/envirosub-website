@@ -78,6 +78,10 @@ div.centered-pic {
 p#about {
   font-size: 100%;
   }
+
+div.compic:hover {
+	cursor:pointer;
+}
 /*About related css end*/
 
 
