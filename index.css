@@ -79,7 +79,7 @@ p#about {
   font-size: 100%;
   }
 
-div.compic:hover {
+img-circle:hover {
 	cursor:pointer;
 }
 /*About related css end*/
