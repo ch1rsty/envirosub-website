@@ -15,7 +15,7 @@ div.container {
 
 /*union logo*/
 img.union-pic {
-	max-height: 20px;
+	max-height: 10px;
 	max-width: auto;
 }
 
@@ -90,13 +90,13 @@ p#gw {
 
 /*Resources related css */
 img.pdf {
-	height: 20px ;
-	width: auto ;
+	max-height: 80px ;
+	max-width: 85px ;
 }
 
 .pdf img {
-	height: 20px ;
-	width: auto ;
+	max-height: 80px ;
+	max-width: 85px ;
 }
 /*Resources related css end*/
 
