@@ -91,9 +91,12 @@ p#gw {
 /*Resources related css */
 img.pdf {
 	max-height: 80px ;
-	max-width: 85px ;
+	max-width: auto ;
 }
-
+img.logo {
+	max-height: 80px ;
+	max-width: auto ;
+}
 /*Resources related css end*/
 
 /*Contact Us related css start*/
