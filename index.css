@@ -105,6 +105,7 @@ img.logo {
 div.hovereffect {
 	display: block;
 	margin: 0 auto;
+	text-align: middle;
 }
 
 /*Resources related css end*/
