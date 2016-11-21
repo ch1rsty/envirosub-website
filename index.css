@@ -97,6 +97,10 @@ img.logo {
 	max-height: 80px ;
 	max-width: auto ;
 }
+
+div.title {
+	padding: 20px; 0px;
+}
 /*Resources related css end*/
 
 /*Contact Us related css start*/
